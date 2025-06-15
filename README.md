@@ -8,11 +8,15 @@ A simple rules-based chatbot built for NLP project. It uses:
 ## Setup
 1. Clone repository OR just download it
 
-```git clone https://github.com/mrx7355608/chatbot-nlp.git```
+```
+git clone https://github.com/mrx7355608/chatbot-nlp.git
+```
 
 2. Create a virtual environment
 
-```python -m venv venv```
+```
+python -m venv venv
+```
 
 3. Activate the virtual environment
 ```
@@ -22,9 +26,13 @@ A simple rules-based chatbot built for NLP project. It uses:
 ```
 
 4. Install dependencies
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 5. Run project
-```python bot.py```
+```
+python bot.py
+```
 
 
