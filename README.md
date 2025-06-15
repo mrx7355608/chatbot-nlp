@@ -20,9 +20,9 @@ python -m venv venv
 
 3. Activate the virtual environment
 ```
-.\venv\Scripts\Activate.ps1 # powershell
-.\venv\Scripts\activate.bat # CMD
-.source /venv/bin/activate         # Linux / MacOS
+.\venv\Scripts\Activate.ps1  # powershell
+.\venv\Scripts\activate.bat  # CMD
+.source /venv/bin/activate   # Linux / MacOS
 ```
 
 4. Install dependencies
